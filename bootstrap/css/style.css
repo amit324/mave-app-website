@@ -26,15 +26,16 @@ body{
 }
 
 .landing-div{
-    background: white url("../../images/bg-image.jpg") no-repeat scroll center;
+    background: white url("../../images/Mave_revised.png") no-repeat scroll center;
     height: 100vh;
+    width: 100vw;
     background-size: cover;
     color: white;
 }
 
 /*landing page*/
 .landing-wrapper{
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, 0);
     height: 100%;
 }
 
