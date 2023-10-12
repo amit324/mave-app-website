@@ -17,7 +17,9 @@ body{
 }
 
 .btn{
-    border-radius: 50px;
+    border-radius: 10px;
+    height: 100!;
+    width: 400!;
 }
 
 .navbar .navbar-brand {
@@ -115,7 +117,7 @@ body{
 
 /* Main Footer */
 .main-footer{
-    background: white url("../../images/footer-image.jpg") no-repeat scroll center;
+    /*background: white url("../../images/footer-image.jpg") no-repeat scroll center;*/
     background-size: cover;
     color: white;
     
