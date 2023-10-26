@@ -467,6 +467,16 @@ h6 {
   position: relative;
 }
 
+@media screen and (max-width: 800px) {
+  #hero {
+    height: 100vh;
+    background: url("../img/Mave_tab.png");
+    background-size: cover;
+    background-position: 1px;
+    position: relative;
+  }
+}
+
 #hero:before {
   content: "";
   /* background: rgba(255, 255, 255, 0.6); */
